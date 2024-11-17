@@ -1,5 +1,5 @@
 <script setup>
 </script>
 <template>
-    <h1>HelloWorld page</h1>
+    <img src="../assets/visuel.jpg" class="img-fluid">
 </template>
